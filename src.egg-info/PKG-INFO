@@ -1,0 +1,7 @@
+Metadata-Version: 2.2
+Name: src
+Version: 0.0.1
+Summary: An MLOps project for productionizing models
+Author: Vaibhav Rai
+Author-email: Vaibhav Rai <vairaibhav922@gmail.com>
+Dynamic: author
