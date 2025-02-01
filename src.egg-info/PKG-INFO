@@ -4,4 +4,5 @@ Version: 0.0.1
 Summary: An MLOps project for productionizing models
 Author: Vaibhav Rai
 Author-email: Vaibhav Rai <vairaibhav922@gmail.com>
+License-File: LICENSE
 Dynamic: author
